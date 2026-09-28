@@ -2,16 +2,17 @@
 
 I'm a Robotics and AI engineer with an M.Eng. in Robotics from the University of Maryland, College Park.
 
-I'm currently working as an Artificial Intelligence Intern at Alpha Clinical Systems, where I'm building backend APIs and AI-driven workflows forpersonalized health and wellness workflows.
+I'm currently working as a Robotics Technician at Harrisburg University, where I'm developing robot digital twins using Isaac Sim and ROS 2, and working on VR teleoperation and vision-guided manipulation with UR5 robots. I also work with Resolved Reality to turn real-world spaces into immersive virtual walkthroughs and interactive digital twins.
 
 Earlier, I worked as:
+- AI & ML Intern at Alpha Clinical Systems
 - AI & CV Engineer Intern at HealthHustler.ai
 - Programmer Intern at Volpe Information Technology Group
 - Robotics Engineer Intern at Indus Instruments
 
-My work spans robotics, computer vision, AI/ML, and backend engineering.
+My work spans robotics, simulation, computer vision, AI/ML, and backend engineering.
 
-I enjoy building intelligent systems for real-world applications.
+I enjoy building robotics systems that connect simulation, perception, and physical robots to solve real-world problems.
 
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QpSemXMAAAAJ&hl=en)
 
@@ -20,6 +21,7 @@ I enjoy building intelligent systems for real-world applications.
 
 - Email: vishnubhotlad@gmail.com<br>
 - Profile:  [LinkedIn](linkedin.com/in/sivaram-dheeraj-vishnubhotla)
+- Harrisburg University: [Staff Profile](https://www.harrisburgu.edu/about/our-people/faculty-staff/sivaram-vishnubhotla/)
 
 ## Technical stack and skills
 
@@ -50,6 +52,11 @@ I enjoy building intelligent systems for real-world applications.
 ![MoveIt](https://img.shields.io/badge/-MoveIt-1F1F1F?style=flat-square&logo=moveit&logoColor=white)
 ![Nav2](https://img.shields.io/badge/-Nav2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Isaac%20Sim](https://img.shields.io/badge/-Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NVIDIA Omniverse](https://img.shields.io/badge/-NVIDIA%20Omniverse-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![UR5](https://img.shields.io/badge/-UR5%20Robots-222222?style=flat-square)
+![FANUC](https://img.shields.io/badge/-FANUC%20Robots-FFD700?style=flat-square&logoColor=black)
+![Digital Twins](https://img.shields.io/badge/-Digital%20Twins-3056D3?style=flat-square)
+![VR Teleoperation](https://img.shields.io/badge/-VR%20Teleoperation-5B3CC4?style=flat-square)
 
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF6C00?style=flat-square&logo=autodesk&logoColor=white)
