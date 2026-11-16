@@ -1,18 +1,21 @@
 ## Hi, I am Sivaram Dheeraj Vishnubhotla 👋
 
-I'm a Robotics and AI engineer with an M.Eng. in Robotics from the University of Maryland, College Park.
+I'm a Robotics and Simulation Engineer with an M.Eng. in Robotics from the University of Maryland, College Park.
 
-I'm currently working as a Robotics Technician at Harrisburg University, where I'm developing robot digital twins using Isaac Sim and ROS 2, and working on VR teleoperation and vision-guided manipulation with UR5 robots. I also work with Resolved Reality to turn real-world spaces into immersive virtual walkthroughs and interactive digital twins.
+I'm currently working as a Robotics Technician at Harrisburg University, developing physics-based digital twins and robotics simulations using NVIDIA Isaac Sim, Omniverse, and OpenUSD. My work also includes VR-based UR5 teleoperation, XR applications, and vision-guided robotic manipulation.
 
-Earlier, I worked as:
+I also work with Resolved Reality, creating immersive virtual walkthroughs and interactive digital twins of physical spaces.
+
+Previously, I worked as:
+
 - AI & ML Intern at Alpha Clinical Systems
 - AI & CV Engineer Intern at HealthHustler.ai
 - Programmer Intern at Volpe Information Technology Group
 - Robotics Engineer Intern at Indus Instruments
 
-My work spans robotics, simulation, computer vision, AI/ML, and backend engineering.
+My technical background spans robotics, simulation, computer vision, AI/ML, and backend engineering, with experience in Python, C++, ROS 2, and robotics software integration.
 
-I enjoy building robotics systems that connect simulation, perception, and physical robots to solve real-world problems.
+I'm particularly interested in robotics simulation, digital twin technologies, and developing systems that connect simulation, software, and physical hardware.
 
 [Explore my portfolio](https://sivaram-dheeraj-vishnubhotla.github.io/) to learn more about my work in robotics, simulation, and AI.
 
