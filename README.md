@@ -14,11 +14,14 @@ My work spans robotics, simulation, computer vision, AI/ML, and backend engineer
 
 I enjoy building robotics systems that connect simulation, perception, and physical robots to solve real-world problems.
 
+[Explore my portfolio](https://sivaram-dheeraj-vishnubhotla.github.io/) to learn more about my work in robotics, simulation, and AI.
+
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QpSemXMAAAAJ&hl=en)
 
 ----
 ### Get in touch
 
+- Portfolio: [sivaram-dheeraj-vishnubhotla.github.io](https://sivaram-dheeraj-vishnubhotla.github.io/)
 - Email: vishnubhotlad@gmail.com<br>
 - Profile:  [LinkedIn](linkedin.com/in/sivaram-dheeraj-vishnubhotla)
 - Harrisburg University: [Staff Profile](https://www.harrisburgu.edu/about/our-people/faculty-staff/sivaram-vishnubhotla/)
